@@ -2,7 +2,7 @@
 基于react及antd的demo
 
 ## 演示地址
-demo: [https://stkgank.github.io/the-world/#/myCalendar?_k=9kzpdy)
+demo: [https://stkgank.github.io/the-world)
 
 ## 文档说明
 地址：[没有文档])
