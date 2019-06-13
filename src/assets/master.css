@@ -1,0 +1,9 @@
+/* 左侧导航固定宽度 */
+#myInput {   
+    width: 20%;
+    border:none;
+    border-radius:0;
+    border-bottom:#8D8D8D 1px solid;
+    box-shadow: 0px 0px 0px 0px;
+    text-align: center;
+}
